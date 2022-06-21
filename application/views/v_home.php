@@ -34,8 +34,9 @@
         <div class="container-fluid">
             <div id="logo" class="pull-left">
 
-                <h1>HOT NEWS</h1>
-                <h3>BERITA YANG SEDANG PANAS</h3>
+                <h1>NEWS STAND</h1>
+                <h3>Ingin Upload Berita atau Mencari Berita Terbaru</h3>
+                <h3>Disini Tempatnya </h3>
 
 
             </div>
@@ -179,7 +180,7 @@
             <div class="container">
 
                 <header class="section-header">
-                    <h3>HOT NEWS</h3>
+                    <h3>NEWS STAND</h3>
                     <p>Berita Hangat Dunia
                     </p>
                 </header>
@@ -345,7 +346,7 @@
 
         <div class="container">
             <div class="copyright">
-                &copy; Copyright <strong>HOT!! </strong>. All Rights Reserved
+                &copy;   <strong>PEACE. </a>.</strong>
             </div>
 
         </div>
